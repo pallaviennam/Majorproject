@@ -1,6 +1,7 @@
 # Majorproject
-# minorproject
-About the Project
+
+
+About the Project:
 
 This project is a Smart Home Energy Management System (SHEMS) built using microcontrollers and IoT components.
 The main goal is to optimize household electricity usage by monitoring, automating, and controlling appliances in real time.
